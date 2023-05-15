@@ -1239,5 +1239,7 @@
     "location.LocationPicker.loadingText": "Chargement…",
     "location.LocationPicker.clearText": "Effacer",
     "location.LocationPicker.openText": "Ouvrir",
-    "location.LocationPicker.closeText": "Fermer"
+    "location.LocationPicker.closeText": "Fermer",
+    "insuree.minorBeneficiary": "Ce bénéficiare est mineur",
+    "insuree.menopausalBeneficiary": "Ce bénéficiaire est ménopausé"
 }

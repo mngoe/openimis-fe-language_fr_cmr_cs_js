@@ -2111,5 +2111,7 @@
     "claim.claimSummaries.processedDate": "",
     "claim.edit.services.code": "Code",
     "claim.edit.services.name": "Nom",
-    "claim.edit.services.priceAppro": "Prix"
+    "claim.edit.services.priceAppro": "Prix",
+    "insuree.minorBeneficiary": "Ce bénéficiare est mineur",
+    "insuree.menopausalBeneficiary": "Ce bénéficiaire est ménopausé"
 }
